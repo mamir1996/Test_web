@@ -1,0 +1,3 @@
+touch .gitignore
+echo "venv/" >> .gitignore
+echo ".env" >> .gitignore
